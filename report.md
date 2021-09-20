@@ -23,4 +23,3 @@
 * <Windows 10, версия 1809, 64x>
 * <Java 11>
 * <IntelliJ IDEA Community Edition 2021.2.2>
-* 
